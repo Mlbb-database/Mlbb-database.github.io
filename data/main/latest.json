@@ -1,1 +1,42 @@
-[]
+[
+    {
+        "hero_id": 58,
+        "skin_id": 7,
+        "image" : "https://mlbb-database.github.io/assets/sample_hero_head.png"
+    },
+    {
+        "hero_id": 9,
+        "skin_id": 9,
+        "image" : "https://mlbb-database.github.io/assets/sample_hero_head.png"
+    },
+    {
+        "hero_id": 50,
+        "skin_id": 5,
+        "image" : "https://mlbb-database.github.io/assets/sample_hero_head.png"
+    },
+    {
+        "hero_id": 25,
+        "skin_id": 9,
+        "image" : "https://mlbb-database.github.io/assets/sample_hero_head.png"
+    },
+    {
+        "hero_id": 78,
+        "skin_id": 7,
+        "image" : "https://mlbb-database.github.io/assets/sample_hero_head.png"
+    },
+    {
+        "hero_id": 103,
+        "skin_id": 8,
+        "image" : "https://mlbb-database.github.io/assets/sample_hero_head.png"
+    },
+    {
+        "hero_id": 67,
+        "skin_id": 7,
+        "image" : "https://mlbb-database.github.io/assets/sample_hero_head.png"
+    },
+    {
+        "hero_id": 100,
+        "skin_id": 6,
+        "image" : "https://mlbb-database.github.io/assets/sample_hero_head.png"
+    }
+]
