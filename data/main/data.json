@@ -5,82 +5,12 @@
             "skin_id": 7,
             "title": "Skin name",
             "image": "https://mlbb-database.github.io/assets/sample_hero_head.png"
-        },
-        {
-            "hero_id": 9,
-            "skin_id": 9,
-            "title": "Skin name",
-            "image": "https://mlbb-database.github.io/assets/sample_hero_head.png"
-        },
-        {
-            "hero_id": 50,
-            "skin_id": 5,
-            "title": "Skin name",
-            "image": "https://mlbb-database.github.io/assets/sample_hero_head.png"
-        },
-        {
-            "hero_id": 25,
-            "skin_id": 9,
-            "title": "Skin name",
-            "image": "https://mlbb-database.github.io/assets/sample_hero_head.png"
-        },
-        {
-            "hero_id": 78,
-            "skin_id": 7,
-            "title": "Skin name",
-            "image": "https://mlbb-database.github.io/assets/sample_hero_head.png"
-        },
-        {
-            "hero_id": 103,
-            "skin_id": 8,
-            "title": "Skin name",
-            "image": "https://mlbb-database.github.io/assets/sample_hero_head.png"
-        },
-        {
-            "hero_id": 67,
-            "skin_id": 7,
-            "title": "Skin name",
-            "image": "https://mlbb-database.github.io/assets/sample_hero_head.png"
-        },
-        {
-            "hero_id": 100,
-            "skin_id": 6,
-            "title": "Skin name",
-            "image": "https://mlbb-database.github.io/assets/sample_hero_head.png"
         }
     ],
     "recommended": [
         {
             "hero_id": 58,
             "skin_id": 7
-        },
-        {
-            "hero_id": 9,
-            "skin_id": 9
-        },
-        {
-            "hero_id": 50,
-            "skin_id": 5
-        },
-        {
-            "hero_id": 25,
-            "skin_id": 9
-        },
-        {
-            "hero_id": 78,
-            "skin_id": 7
-        },
-        {
-            "hero_id": 103,
-            "skin_id": 8
-        },
-        {
-            "hero_id": 67,
-            "skin_id": 7
-        },
-        {
-            "hero_id": 100,
-            "skin_id": 6
         }
     ],
     "wrong_path_link": "https://",
