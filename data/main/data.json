@@ -2,7 +2,7 @@
     "latest": [
         {
             "hero_id": 58,
-            "skin_id": 7,
+            "skin_id": 6,
             "title": "Skin name",
             "image": "https://mlbb-database.github.io/assets/sample_hero_head.png"
         }
@@ -10,7 +10,7 @@
     "recommended": [
         {
             "hero_id": 58,
-            "skin_id": 7
+            "skin_id": 6
         }
     ],
     "wrong_path_link": "https://",
