@@ -10,10 +10,10 @@ Welcome to Warlito Tools. This privacy policy explains how we collect, use, and 
 
 ## 1. Information We Collect  
 
-### a. Personal Information:  
+### a. Personal Information  
 We do not collect personally identifiable information such as your name, email address, or phone number.  
 
-### b. Non-Personal Information:  
+### b. Non-Personal Information  
 We may collect non-personal information about your device and usage of the App, including but not limited to:  
 - Device type and model  
 - Operating system and version  
@@ -39,6 +39,7 @@ We use the information collected to:
 We do not sell, trade, or otherwise transfer your personal information to outside parties. However, we may share non-personal information with:  
 - **Google AdMob:** For serving personalized and non-personalized ads.  
 - **Crashlytics:** To analyze and resolve application crashes effectively.  
+- **Shizuku Integration:** The App uses Shizuku to enable advanced functionalities that require system-level APIs. Shizuku does not collect or transmit personal data but facilitates direct access to certain Android APIs locally on your device.  
 - **Other third-party service providers** assisting in app operations, under strict confidentiality agreements.  
 
 ---
