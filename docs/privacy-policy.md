@@ -18,6 +18,7 @@ We may collect non-personal information about your device and usage of the App, 
 - Device type and model  
 - Operating system and version  
 - App version  
+- Advertising ID (to serve personalized and non-personalized ads)  
 - Usage data and interactions with the App features  
 - Error and crash reports  
 
@@ -30,14 +31,14 @@ We use the information collected to:
 - Identify and fix bugs and crashes using services like Crashlytics  
 - Enhance user experience by understanding usage patterns  
 - Ensure the App functions properly across different devices and operating systems  
-- Display relevant advertisements through AdMob  
+- Display relevant advertisements using the Advertising ID for Google AdMob  
 
 ---
 
 ## 3. Data Sharing and Disclosure  
 
 We do not sell, trade, or otherwise transfer your personal information to outside parties. However, we may share non-personal information with:  
-- **Google AdMob:** For serving personalized and non-personalized ads.  
+- **Google AdMob:** For serving personalized and non-personalized ads using the Advertising ID.  
 - **Crashlytics:** To analyze and resolve application crashes effectively.  
 - **Shizuku Integration:** The App uses Shizuku to enable advanced functionalities that require system-level APIs. Shizuku does not collect or transmit personal data but facilitates direct access to certain Android APIs locally on your device.  
 - **Other third-party service providers** assisting in app operations, under strict confidentiality agreements.  
