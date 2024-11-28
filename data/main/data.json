@@ -1,48 +1,24 @@
-{
-"latest": [
-{
-"hero_id": 65,
-"skin_id": 11,
-"title": "Skin name",
-"image": "https://i.imgur.com/wVfNDqB.jpeg"
-},
-   {
-"hero_id": 120,
-"skin_id": 4,
-"title": "Skin name",
-"image": "https://i.imgur.com/fibGA6Y.jpeg"
-   },
-  {
-"hero_id": 115,
-"skin_id": 4,
-"title": "Skin name",
-"image": "https://i.imgur.com/JR9LaHz.jpeg" 
-   },
-  {
-"hero_id": 122,
-"skin_id": 4,
-"title": "Skin name",
-"image": "https://i.imgur.com/QguPYNK.jpeg" 
-   },
-   {
-"hero_id": 66,
-"skin_id": 7,
-"title": "Skin name",
-"image": "https://i.imgur.com/VzorR0Q.jpeg" 
-   },
-],
-"recommended": [
-{
-"hero_id": 58,
-"skin_id": 6
-}
-],
-"wrong_path_link": "https://",
-"slider": [
-"https://i.imgur.com/nfqr2Pu.jpeg",
-"https://i.imgur.com/i6L9k7f.jpeg",
-"https://i.imgur.com/9Qg0szA.jpeg",
-"https://i.imgur.com/CA1pyJ7.jpeg"
-],
-"tongits_go": "https://app.adjust.com/16zzmog7?deep_link=tongitsgo://ClubInvite_WarlitoGamingVIPTGYTYs&campaign=WarlitoGamingVIPTGYTYs"
-}
+	{
+	"latest": [
+	{
+	"hero_id": 65,
+	"skin_id": 11,
+	"title": "Skin name",
+	"image": "https://i.imgur.com/wVfNDqB.jpeg"
+	}
+	],
+	"recommended": [
+	{
+	"hero_id": 58,
+	"skin_id": 6
+	}
+	],
+	"wrong_path_link": "https://",
+	"slider": [
+	"https://i.imgur.com/nfqr2Pu.jpeg",
+	"https://i.imgur.com/i6L9k7f.jpeg",
+	"https://i.imgur.com/9Qg0szA.jpeg",
+	"https://i.imgur.com/CA1pyJ7.jpeg"
+	],
+	"tongits_go": "https://app.adjust.com/16zzmog7?deep_link=tongitsgo://ClubInvite_WarlitoGamingVIPTGYTYs&campaign=WarlitoGamingVIPTGYTYs"
+	}
