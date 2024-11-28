@@ -5,6 +5,12 @@
 	"skin_id": 11,
 	"title": "Skin name",
 	"image": "https://i.imgur.com/wVfNDqB.jpeg"
+	},
+	{
+	"hero_id": 120,
+	"skin_id": 4,
+	"title": "Skin name",
+	"image": "https://i.imgur.com/fibGA6Y.jpeg"
 	}
 	],
 	"recommended": [
