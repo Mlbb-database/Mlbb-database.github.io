@@ -35,6 +35,14 @@
 	{
 	"hero_id": 56,
 	"skin_id": 21
+	},
+	{
+	"hero_id": 21,
+	"skin_id": 41
+	},
+	{
+	"hero_id": 26,
+	"skin_id": 42
 	}
 	],
 	"wrong_path_link": "https://",
