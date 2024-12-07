@@ -33,24 +33,24 @@
 	],
 	"recommended": [
 	{
-	"hero_id": 56,
-	"skin_id": 21
+	"hero_id": 65,
+	"skin_id": 7
 	},
 	{
-	"hero_id": 21,
-	"skin_id": 41
+	"hero_id": 18,
+	"skin_id": 7
 	},
 	{
-	"hero_id": 26,
-	"skin_id": 42
+	"hero_id": 64,
+	"skin_id": 5
 	},
 	{
-	"hero_id": 27,
-	"skin_id": 40
+	"hero_id": 10,
+	"skin_id": 6
 	},
 	{
-	"hero_id": 77,
-	"skin_id": 41
+	"hero_id": 41,
+	"skin_id": 3
 	}
 	],
 	"wrong_path_link": "https://",
@@ -59,6 +59,6 @@
 	"https://i.imgur.com/i6L9k7f.jpeg",
 	"https://i.imgur.com/9Qg0szA.jpeg",
 	"https://i.imgur.com/CA1pyJ7.jpeg"
-	],
+	], 
 	"tongits_go": "https://app.adjust.com/16zzmog7?deep_link=tongitsgo://ClubInvite_WarlitoGamingVIPTGYTYs&campaign=WarlitoGamingVIPTGYTYs"
 	}
