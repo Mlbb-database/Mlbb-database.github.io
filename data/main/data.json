@@ -39,6 +39,10 @@
 	{
 	"hero_id": 85,
 	"skin_id": 8
+	},
+	{
+	"hero_id": 91,
+	"skin_id": 7
 	}
 	],
 	"wrong_path_link": "https://",
