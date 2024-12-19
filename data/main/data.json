@@ -33,6 +33,10 @@
 	],
 	"recommended": [
 	{
+	"hero_id": 32,
+	"skin_id": 10
+	},
+	{
 	"hero_id": 73,
 	"skin_id": 8
 	},
