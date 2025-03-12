@@ -35,6 +35,18 @@
 	"skin_id": 6,
 	"title": "Skin name",
 	"image": "https://i.imgur.com/IgGHIPc.jpeg"
+	},
+	{
+	"hero_id": 28,
+	"skin_id": 8,
+	"title": "Skin name",
+	"image": "https://i.imgur.com/KWhXT5k.jpeg"
+	},
+	{
+	"hero_id": 53,
+	"skin_id": 11,
+	"title": "Skin name",
+	"image": "https://i.imgur.com/jesqMda.jpeg"
 	}
 	],
 	"recommended": [
