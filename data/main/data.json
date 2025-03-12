@@ -37,20 +37,28 @@
 	"skin_id": 10
 	},
 	{
-	"hero_id": 73,
+	"hero_id": 28,
 	"skin_id": 8
 	},
 	{
-	"hero_id": 85,
-	"skin_id": 8
+	"hero_id": 56,
+	"skin_id": 7
 	},
 	{
-	"hero_id": 116,
+	"hero_id": 22,
 	"skin_id": 4
 	},
 	{
-	"hero_id": 91,
+	"hero_id": 7,
 	"skin_id": 7
+	},
+	{
+	"hero_id": 1,
+	"skin_id": 5
+	},
+	{
+	"hero_id": 23,
+	"skin_id": 3
 	}
 	],
 	"wrong_path_link": "https://",
