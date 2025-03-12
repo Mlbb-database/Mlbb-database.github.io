@@ -1,34 +1,52 @@
 	{
 	"latest": [
 	{
-	"hero_id": 65,
+	"hero_id": 29,
+	"skin_id": 8,
+	"title": "Skin name",
+	"image": "https://i.imgur.com/PGLrLzu.jpeg"
+	},
+	{
+	"hero_id": 29,
+	"skin_id": 9,
+	"title": "Skin name",
+	"image": "https://i.imgur.com/ACMnPXn.jpeg"
+	},
+	{
+	"hero_id": 83,
+	"skin_id": 6,
+	"title": "Skin name",
+	"image": "https://i.imgur.com/QGroMCD.jpeg"
+	},
+	{
+	"hero_id": 118,
+	"skin_id": 5,
+	"title": "Skin name",
+	"image": "https://i.imgur.com/jvd0ISb.jpeg"
+	},
+	{
+	"hero_id": 111,
+	"skin_id": 6,
+	"title": "Skin name",
+	"image": "https://i.imgur.com/JjQcbm2.jpeg"
+	},
+	{
+	"hero_id": 114,
+	"skin_id": 6,
+	"title": "Skin name",
+	"image": "https://i.imgur.com/IgGHIPc.jpeg"
+	},
+	{
+	"hero_id": 97,
+	"skin_id": 9,
+	"title": "Skin name",
+	"image": "https://i.imgur.com/jesqMda.jpeg"
+	},
+	{
+	"hero_id": 53,
 	"skin_id": 11,
 	"title": "Skin name",
-	"image": "https://i.imgur.com/wVfNDqB.jpeg"
-	},
-	{
-	"hero_id": 115,
-	"skin_id": 4,
-	"title": "Skin name",
-	"image": "https://i.imgur.com/fibGA6Y.jpeg"
-	},
-	{
-	"hero_id": 120,
-	"skin_id": 4,
-	"title": "Skin name",
-	"image": "https://i.imgur.com/JR9LaHz.jpeg"
-	},
-	{
-	"hero_id": 122,
-	"skin_id": 4,
-	"title": "Skin name",
-	"image": "https://i.imgur.com/QguPYNK.jpeg"
-	},
-	{
-	"hero_id": 66,
-	"skin_id": 7,
-	"title": "Skin name",
-	"image": "https://i.imgur.com/VzorR0Q.jpeg"
+	"image": "https://i.imgur.com/S8BF0Wg.jpeg"
 	}
 	],
 	"recommended": [
