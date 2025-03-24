@@ -1,6 +1,36 @@
 	{
 	"latest": [
 	{
+	"hero_id": 84,
+	"skin_id": 8,
+	"title": "Skin name",
+	"image": "https://i.imgur.com/LPpiW0c.jpeg"
+	},
+	{
+	"hero_id": 100,
+	"skin_id": 7,
+	"title": "Skin name",
+	"image": "https://i.imgur.com/kb8ddPu.jpeg"
+	},
+	{
+	"hero_id": 52,
+	"skin_id": 10,
+	"title": "Skin name",
+	"image": "https://i.imgur.com/VC1F4x2.jpeg"
+	},
+	{
+	"hero_id": 70,
+	"skin_id": 5,
+	"title": "Skin name",
+	"image": "https://i.imgur.com/rGq2ix7.jpeg"
+	},
+	{
+	"hero_id": 67,
+	"skin_id": 8,
+	"title": "Skin name",
+	"image": "https://i.imgur.com/Eptqx2L.jpeg"
+	},
+	{
 	"hero_id": 29,
 	"skin_id": 8,
 	"title": "Skin name",
