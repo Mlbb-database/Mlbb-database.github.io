@@ -81,32 +81,24 @@
 	],
 	"recommended": [
 	{
-	"hero_id": 32,
-	"skin_id": 10
-	},
-	{
-	"hero_id": 28,
-	"skin_id": 8
-	},
-	{
-	"hero_id": 56,
-	"skin_id": 7
-	},
-	{
-	"hero_id": 22,
-	"skin_id": 4
-	},
-	{
-	"hero_id": 7,
-	"skin_id": 7
-	},
-	{
-	"hero_id": 1,
+	"hero_id": 17,
 	"skin_id": 5
 	},
 	{
-	"hero_id": 23,
-	"skin_id": 3
+	"hero_id": 16,
+	"skin_id": 8
+	},
+	{
+	"hero_id": 5,
+	"skin_id": 6
+	},
+	{
+	"hero_id": 13,
+	"skin_id": 1
+	},
+	{
+	"hero_id": 65,
+	"skin_id": 4
 	}
 	],
 	"wrong_path_link": "https://",
