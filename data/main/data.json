@@ -7,11 +7,7 @@
 	"image": "https://i.imgur.com/jesqMda.jpeg"
 	}
 	],
-	"Recommend": [
-	{
-	"hero_id": 31,
-	"skin_id": 16
-	},
+	"recommend": [
 	{
 	"hero_id": 17,
 	"skin_id": 5
