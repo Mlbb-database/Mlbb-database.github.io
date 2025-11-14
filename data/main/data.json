@@ -9,12 +9,12 @@
 	],
 	"recommended": [
 	{
-	"hero_id": 11,
-	"skin_id": 6
-	},
-	{
 	"hero_id": 45,
 	"skin_id": 2
+	},
+	{
+	"hero_id": 11,
+	"skin_id": 6
 	},
 	{
 	"hero_id": 103,
