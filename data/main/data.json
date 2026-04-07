@@ -153,6 +153,12 @@
             "skin_id": 9,
             "title": "Skin name",
             "image": "https://i.imgur.com/jesqMda.jpeg"
+        },
+        {
+            "hero_id": 103,
+            "skin_id": 9,
+            "title": "Skin name",
+            "image": "https://i.imgur.com/jesqMda.jpeg"
         }
     ],
     "contents": [
